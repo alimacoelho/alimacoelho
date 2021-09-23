@@ -21,7 +21,7 @@ As a teacher, I work in the teaching of civil engineering disciplines, mainly in
   
 
 ## Technologies I'm learning as a hobby:
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="100">  <img align="center" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width="100"> 
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="100">  
 
 ## My publications are avaiable on:
     
